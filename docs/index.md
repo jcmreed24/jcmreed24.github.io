@@ -1,29 +1,85 @@
----
-title: Welcome
-tags:
-- tag1
-- tag2
----
+<h1 style="text-align: center; font-size: 4rem; margin-bottom: 0.5rem;">
+JC Reed
+</h1>
 
-# __Welcome to the landing page for direct access to all of JC Reed's indiviual assignments for EGR314!__
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin-top: -0.25rem;">
 
-## __My Role in the Project__
-My role in this project was to design and implement the Human-Machine Interface (HMI) for our interactive STEM exhibit. The purpose of the HMI was to give exhibit-goers an intuitive way to interact with the system and control the sorting mechanism. A more detailed overview of the complete system can be found on [my team's webpage.](https://asu-egr314-2025-s-201.github.io/)
+<img src="static/images/JC%20Headshot.jpg"
+     alt="Headshot of JC Reed"
+     width="275"
+     style="border-radius: 18px;">
 
-My interface was built around three physical pushbuttons that allow users to navigate through a selection menu and confirm their choices. Feedback and instructions were provided via a compact OLED LCD display, allowing users to see their input in real-time and follow along with the quiz-like experience.
+<div style="max-width: 640px;">
 
-In addition to managing user interaction, I was responsible for UART-based communication between my subsystem and the rest of the team. More specifically, the most important messages I sent were structured serial messages to the actuator subsystem to trigger the motor based on the user’s choice. My design ensured that all outgoing messages followed our predefined communication protocol, enabling seamless interaction between the user interface and the rest of the system.
+<p>
+<strong>Mesa, AZ 85212</strong><br>
+<strong>Phone:</strong> (480)-848-5249<br>
+<strong>Email:</strong> <a href="mailto:jcmreed24@gmail.com">jcmreed24@gmail.com</a><br>
+<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jc-reed-72b421213/">JC Reed</a>
+</p>
 
-![JC Reed - Final Subsystem Design](static/images/JC%20Reed%20-%20Final%20Subsystem.jpg)
+<h2 style="margin-top: 1.5rem;">Overview</h2>
 
-## __Access My Team's Webpage Here: [Team 201's Webpage](https://asu-egr314-2025-s-201.github.io/)__
+<p>
+Robotics Engineering graduate with a proven track record of high productivity and efficient task completion. Proficient in project management, team communication, and professional documentation, with technical skills in PCB design, software programming, and embedded systems. Strong problem-solving abilities and adaptability to enhance teamwork and project advancement.
+</p>
 
-## __My Assignments__
-Assignment | Link
------|------------
-Block Diagram   | [link](https://jcmreed.github.io/Block%20Diagram/)
-Component Selection | [link](https://jcmreed.github.io/Component%20Selection/)
-Schematic & PCB Design | [link](https://jcmreed.github.io/Schematic%20&%20PCB%20Design/)
-Bill of Materials | [link](https://jcmreed.github.io/Bill%20of%20Materials/)
-Application Programming Interface (API) | [link](https://jcmreed.github.io/Application%20Programming%20Interface%20(API))
-Resources | [link](https://jcmreed.github.io/Resources/)
+</div>
+</div>
+
+## Skills
+
+<div style="display: flex; gap: 4rem;">
+
+<ul>
+<li>Effective Communication</li>
+<li>Project Management</li>
+<li>Team Collaboration</li>
+<li>Problem Solving</li>
+</ul>
+
+<ul>
+<li>MATLAB/Simulink Modeling</li>
+<li>Embedded Systems Development</li>
+<li>Computer Programming</li>
+<li>Engineering Design and Implementation</li>
+</ul>
+
+</div>
+
+## Experience
+
+### Mathematics Tutor  
+**Mathnasium Learning Center — Mesa, AZ**  
+**07/2021 – Current**
+
+- Encouraged critical thinking skills to help students develop problem-solving strategies.
+- Established strong connections between students and parents to support growth and retention rates.
+- Assessed student progress through regular quizzes and evaluations.
+- Developed customized lesson plans to meet individual student needs.
+
+## Education and Training
+
+### Arizona State University Polytechnic — Mesa, AZ  
+**Bachelor of Science in Engineering**  
+**Robotics Engineering, 05/2026**
+
+- Capstone Project: Design and Prototyping of a Robotically Assisted Exoskeleton for Use by Glovebox Operators, Los Alamos National Laboratory  
+  - Received Principled Innovation Award
+- Consecutive Dean's List since 2023 enrollment
+- 4.0+ GPA
+
+### Maricopa Community Colleges, Chandler-Gilbert Community College — Chandler, AZ  
+**Associate of Science**  
+**Engineering, 05/2023**
+
+- Presidents' Honors Scholarship Recipient
+- Consecutive Presidents' Honors List since 2021 enrollment
+- Honors Project Student Panelist
+- 4.0+ GPA
+
+## Personal Qualities
+
+- Enjoy building and maintaining professional relationships by prioritizing clear communication and effective management.
+- Demonstrate adaptability and emotional intelligence by adjusting communication styles to fit individual and team dynamics.
+- Maintain organizational clarity by streamlining tasks and aligning goals.
