@@ -6,7 +6,7 @@ JC Reed
 
 <img src="static/images/JC%20Headshot.jpg"
      alt="Headshot of JC Reed"
-     width="275"
+     width="500"
      style="border-radius: 18px;">
 
 <div style="max-width: 640px;">
