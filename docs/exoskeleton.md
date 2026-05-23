@@ -2,13 +2,7 @@
 Robotic Exoskeleton for Glovebox Operators
 </h1>
 
-<div style="text-align: center; margin-top: 1rem; margin-bottom: 2rem;">
-
-<img src="static/images/exoskeleton.jpg"
-     alt="Exoskeleton Project Image"
-     style="width: 85%; max-width: 900px; border-radius: 16px;">
-
-</div>
+![Exoskeleton Project Image](static/images/exoskeleton.jpg){ style="display: block; margin: 1rem auto 2rem auto; width: 85%; max-width: 900px; border-radius: 16px;" }
 
 <div style="max-width: 900px; margin: auto;">
 
