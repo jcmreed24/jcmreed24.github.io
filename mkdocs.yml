@@ -10,8 +10,7 @@ theme:
     accent: 
   font:
     text: Roboto
-  logo: static/logo.svg
-  favicon: static/logo.png
+
 
   features:
     - navigation.tabs
@@ -47,7 +46,7 @@ draft_docs: |
 
 nav: 
  - Homepage: 'index.md'
- - Block Diagram: 'Block Diagram.md'
+ - Robotic Exoskeleton for Glovebox Use: 'exoskeleton.md'
  - Component Selection: 'Component Selection.md'
  - Schematic & PCB Design: 'Schematic & PCB Design.md'
  - Bill of Materials: 'Bill of Materials.md'

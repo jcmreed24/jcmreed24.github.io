@@ -2,21 +2,25 @@
 JC Reed
 </h1>
 
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin-top: -0.25rem;">
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin-top: -0.25rem; font-size: 1.2rem">
 
-<img src="static/images/JC%20Headshot.jpg"
+<img src="static/images/JC%20Headshot%20(Cropped).jpg"
      alt="Headshot of JC Reed"
-     width="2500"
+     width="250"
      style="border-radius: 18px;">
 
 <div style="max-width: 640px;">
 
 <p>
+<br>
 <strong>Mesa, AZ 85212</strong><br>
 <strong>Phone:</strong> (480)-848-5249<br>
 <strong>Email:</strong> <a href="mailto:jcmreed24@gmail.com">jcmreed24@gmail.com</a><br>
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jc-reed-72b421213/">JC Reed</a>
 </p>
+
+</div>
+</div>
 
 <h2 style="margin-top: 1.5rem;">Overview</h2>
 
@@ -24,8 +28,7 @@ JC Reed
 Robotics Engineering graduate with a proven track record of high productivity and efficient task completion. Proficient in project management, team communication, and professional documentation, with technical skills in PCB design, software programming, and embedded systems. Strong problem-solving abilities and adaptability to enhance teamwork and project advancement.
 </p>
 
-</div>
-</div>
+--- 
 
 ## Skills
 
@@ -47,6 +50,8 @@ Robotics Engineering graduate with a proven track record of high productivity an
 
 </div>
 
+---
+
 ## Experience
 
 ### Mathematics Tutor  
@@ -57,6 +62,8 @@ Robotics Engineering graduate with a proven track record of high productivity an
 - Established strong connections between students and parents to support growth and retention rates.
 - Assessed student progress through regular quizzes and evaluations.
 - Developed customized lesson plans to meet individual student needs.
+
+---
 
 ## Education and Training
 
@@ -77,6 +84,8 @@ Robotics Engineering graduate with a proven track record of high productivity an
 - Consecutive Presidents' Honors List since 2021 enrollment
 - Honors Project Student Panelist
 - 4.0+ GPA
+
+---
 
 ## Personal Qualities
 
